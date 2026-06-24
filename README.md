@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
