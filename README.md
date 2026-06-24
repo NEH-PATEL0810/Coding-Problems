@@ -77,8 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0367-valid-perfect-square) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1925-count-square-sum-triples](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1925-count-square-sum-triples) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
