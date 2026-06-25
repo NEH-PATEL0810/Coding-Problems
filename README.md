@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0541-reverse-string-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
