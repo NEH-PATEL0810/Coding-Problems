@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
