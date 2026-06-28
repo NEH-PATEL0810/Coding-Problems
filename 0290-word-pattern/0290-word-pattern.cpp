@@ -13,14 +13,6 @@ public:
             words.push_back(wrd);
         }
 
-        // for (int i = 0; i < s.size(); ++i) {
-        //     if (s[i] == ' ') {
-        //         words.push_back(substr);
-        //         substr = " ";
-        //     }
-        //     substr += s[i];
-        // }
-        // words.push_back(substr);
         if(pattern.size() != words.size()) return false;
 
 
