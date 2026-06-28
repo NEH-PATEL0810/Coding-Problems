@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
