@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [2129-capitalize-the-title](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2129-capitalize-the-title) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
