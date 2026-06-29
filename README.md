@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2129-capitalize-the-title) |
 | [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3813-vowel-consonant-score](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3813-vowel-consonant-score) |
 ## Counting
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
