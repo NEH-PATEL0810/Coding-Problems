@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2129-capitalize-the-title) |
+| [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
