@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting Sort
 |  |
