@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
