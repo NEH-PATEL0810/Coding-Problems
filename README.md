@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
+| [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
