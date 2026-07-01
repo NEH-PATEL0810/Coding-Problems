@@ -13,8 +13,8 @@ public:
             }
         }
 
-        sort(OddIndice.begin(), OddIndice.end());
-        reverse(OddIndice.begin(), OddIndice.end());
+        sort(OddIndice.begin(), OddIndice.end(),greater<int> ());
+        // reverse(OddIndice.begin(), OddIndice.end());
 
         sort(EvenIndice.begin(), EvenIndice.end());
 
