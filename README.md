@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0238-product-of-array-except-self) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
