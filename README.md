@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0205-isomorphic-strings) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0290-word-pattern) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0217-contains-duplicate) |
