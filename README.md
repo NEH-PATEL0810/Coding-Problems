@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
+| [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
+| [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0917-reverse-only-letters) |
 | [0981-time-based-key-value-store](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0981-time-based-key-value-store) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0238-product-of-array-except-self) |
+| [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2485-find-the-pivot-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
