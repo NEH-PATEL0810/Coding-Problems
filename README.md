@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2485-find-the-pivot-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3813-vowel-consonant-score](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
