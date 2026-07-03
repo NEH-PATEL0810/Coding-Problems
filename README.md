@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0917-reverse-only-letters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1816-truncate-sentence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2351-first-letter-to-appear-twice](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
