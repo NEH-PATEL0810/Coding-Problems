@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0981-time-based-key-value-store](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0981-time-based-key-value-store) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0771-jewels-and-stones](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
 | [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
