@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
