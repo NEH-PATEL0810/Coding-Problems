@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1816-truncate-sentence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2485-find-the-pivot-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
