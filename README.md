@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 ## Hash Function
