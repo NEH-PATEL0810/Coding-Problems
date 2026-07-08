@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0905-sort-array-by-parity) |
+| [0930-binary-subarrays-with-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
+| [0930-binary-subarrays-with-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
+| [0930-binary-subarrays-with-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Combinatorics
