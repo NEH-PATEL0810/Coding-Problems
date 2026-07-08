@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0456-132-pattern) |
+| [0525-contiguous-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0930-binary-subarrays-with-sum) |
