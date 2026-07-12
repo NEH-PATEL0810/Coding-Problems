@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
