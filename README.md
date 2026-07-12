@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1331-rank-transform-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1833-maximum-ice-cream-bars) |
