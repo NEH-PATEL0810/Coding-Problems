@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0771-jewels-and-stones) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0771-jewels-and-stones](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
