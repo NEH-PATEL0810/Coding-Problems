@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0088-merge-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0209-minimum-size-subarray-sum) |
