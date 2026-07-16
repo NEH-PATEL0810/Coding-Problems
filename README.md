@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2942-find-words-containing-character) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2401-longest-nice-subarray) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
