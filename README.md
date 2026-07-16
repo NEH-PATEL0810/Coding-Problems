@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0456-132-pattern) |
 | [0981-time-based-key-value-store](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0981-time-based-key-value-store) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -432,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
