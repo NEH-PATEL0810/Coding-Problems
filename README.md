@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2951-find-the-peaks) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1925-count-square-sum-triples) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2951-find-the-peaks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
 |  |
