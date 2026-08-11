@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1844-replace-all-digits-with-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2063-vowels-of-all-substrings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
