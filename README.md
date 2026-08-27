@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3484-design-spreadsheet](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3484-design-spreadsheet) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3484-design-spreadsheet](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3484-design-spreadsheet](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3813-vowel-consonant-score) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0981-time-based-key-value-store) |
+| [3484-design-spreadsheet](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3484-design-spreadsheet) |
 ## Hash Function
 |  |
 | ------- |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3484-design-spreadsheet](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3484-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
