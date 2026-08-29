@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2401-longest-nice-subarray) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3794-reverse-string-prefix](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
 ## Counting Sort
