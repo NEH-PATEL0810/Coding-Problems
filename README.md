@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2401-longest-nice-subarray](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2401-longest-nice-subarray) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2785-sort-vowels-in-a-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3731-find-missing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
