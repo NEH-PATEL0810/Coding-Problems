@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
 | [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -467,10 +468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
 | ------- |
