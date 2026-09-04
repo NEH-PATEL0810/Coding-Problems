@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1590-make-sum-divisible-by-p) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0367-valid-perfect-square) |
+| [1512-number-of-good-pairs](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1925-count-square-sum-triples) |
