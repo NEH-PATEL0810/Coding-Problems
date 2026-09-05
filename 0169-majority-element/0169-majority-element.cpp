@@ -1,20 +1,34 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        // Moore's Voting ALgorithm
         int n = nums.size();
-        unordered_map<int, int> freq_map;
-        for (int i = 0; i < n; ++i) {
-            freq_map[nums[i]]++;
+        int cnt=0;
+        int el;
+
+        for(int i=0;i<n;++i){
+            if(cnt==0){
+                cnt=1;
+                el=nums[i];
+            }
+            else if(el == nums[i]){
+                cnt++;
+            }
+            else{
+                cnt--;
+            }
         }
-
-        int m_element =0 ;
-
-        for(auto &num:freq_map){
-            if(num.second>ceil(n/2)) {
-                m_element = num.first;
+        int cnt1=0;
+        for(int i=0;i<n;++i){
+            if(nums[i]==el){
+                cnt1++;
             }
         }
 
-        return m_element;
+        if(cnt1>n/2){
+            return el;
+        }
+
+        return -1;
     }
 };
