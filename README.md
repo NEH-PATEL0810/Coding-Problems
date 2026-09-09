@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2063-vowels-of-all-substrings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0367-valid-perfect-square](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1512-number-of-good-pairs) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2063-vowels-of-all-substrings) |
 ## Breadth-First Search
 |  |
