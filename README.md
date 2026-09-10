@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1925-count-square-sum-triples) |
 | [2063-vowels-of-all-substrings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2063-vowels-of-all-substrings) |
 | [2485-find-the-pivot-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3516-find-closest-person) |
