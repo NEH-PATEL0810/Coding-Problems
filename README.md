@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0205-isomorphic-strings) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
