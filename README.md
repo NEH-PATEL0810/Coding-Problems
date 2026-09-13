@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2401-longest-nice-subarray](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2401-longest-nice-subarray) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3701-compute-alternating-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3813-vowel-consonant-score) |
