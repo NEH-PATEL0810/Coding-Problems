@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2239-find-closest-number-to-zero](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2239-find-closest-number-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1925-count-square-sum-triples) |
 | [2063-vowels-of-all-substrings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2063-vowels-of-all-substrings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0495-teemo-attacking) |
 | [0867-transpose-matrix](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2063-vowels-of-all-substrings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
