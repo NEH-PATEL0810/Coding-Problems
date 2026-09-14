@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2090-k-radius-subarray-averages](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2090-k-radius-subarray-averages](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2401-longest-nice-subarray) |
 ## Combinatorics
