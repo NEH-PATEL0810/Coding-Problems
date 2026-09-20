@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3484-design-spreadsheet](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3484-design-spreadsheet) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3794-reverse-string-prefix) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/2401-longest-nice-subarray) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Combinatorics
 |  |
 | ------- |
