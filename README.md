@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0609-find-duplicate-file-in-system) |
 | [0771-jewels-and-stones](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0811-subdomain-visit-count) |
 | [0848-shifting-letters](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0848-shifting-letters) |
 | [0890-find-and-replace-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0890-find-and-replace-pattern) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/NEH-PATEL0810/Coding-Problems/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
